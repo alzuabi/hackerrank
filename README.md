@@ -5,7 +5,7 @@ Collection of solutions to hackertank challenges
 ![Kotlin][kotlin-img]
 - Gridland Metro [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/gridland_metro/Gridland_Metro.java) [problem](https://www.hackerrank.com/challenges/gridland-metro/problem)
 - Pairs [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/pairs/Pairs.java) [problem](https://www.hackerrank.com/challenges/pairs/problem)
-
+- Sparse Arrays [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/sparse_arrays/Sparse_Arrays.java) [problem](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 
 
 
