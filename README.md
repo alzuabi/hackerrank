@@ -8,6 +8,7 @@ Collection of solutions to hackertank challenges
 - Sparse Arrays [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/sparse_arrays/Sparse_Arrays.java) [problem](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 - Array Manipulation [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/array_manipulation/Array_Manipulation.java) [problem](https://www.hackerrank.com/challenges/crush/problem)
 - Tree: Huffman Decoding [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/tree_huffman_decoding/Tree_Huffman_Decoding.java) [problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)
+- Truck Tour [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/kotlin/truck_tour/Truck_Tour.kt) [problem](https://www.hackerrank.com/challenges/truck-tour/problem)
 
 
 
