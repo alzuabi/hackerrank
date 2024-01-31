@@ -9,6 +9,7 @@ Collection of solutions to hackertank challenges
 - Array Manipulation [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/array_manipulation/Array_Manipulation.java) [problem](https://www.hackerrank.com/challenges/crush/problem)
 - Tree: Huffman Decoding [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/tree_huffman_decoding/Tree_Huffman_Decoding.java) [problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)
 - Truck Tour [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/kotlin/truck_tour/Truck_Tour.kt) [problem](https://www.hackerrank.com/challenges/truck-tour/problem)
+- Balanced Brackets [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/kotlin/balanced_brackets/Balanced_Brackets.kt) [problem](https://www.hackerrank.com/challenges/balanced-brackets/problem)
 
 
 
