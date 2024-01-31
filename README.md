@@ -1,5 +1,8 @@
 # hackerrank
-Collection of solutions to hackertank challenges
+Collection of solutions to hackerrank challenges
+
+My profile: https://www.hackerrank.com/profile/AlzuabiIbrahim
+
 
 ![Java][java-img]
 ![Kotlin][kotlin-img]
