@@ -14,7 +14,7 @@ My profile: https://www.hackerrank.com/profile/AlzuabiIbrahim
 - Truck Tour [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/kotlin/truck_tour/Truck_Tour.kt) [problem](https://www.hackerrank.com/challenges/truck-tour/problem)
 - Balanced Brackets [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/kotlin/balanced_brackets/Balanced_Brackets.kt) [problem](https://www.hackerrank.com/challenges/balanced-brackets/problem)
 - Queue Using Two Stacks [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/kotlin/queue_using_two_stacks/Queue_Using_Two_Stacks.kt) [problem](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
-
+- Components In Graph [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/components_in_graph/Components_In_Graph.java) [problem](https://www.hackerrank.com/challenges/components-in-graph/problem)
 
 
 
