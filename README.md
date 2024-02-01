@@ -12,6 +12,7 @@ My profile: https://www.hackerrank.com/profile/AlzuabiIbrahim
 - Balanced Brackets [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/kotlin/balanced_brackets/Balanced_Brackets.kt) [problem](https://www.hackerrank.com/challenges/balanced-brackets/problem) <div class="vertical-center"> ![Kotlin][kotlin-img] </div>
 - Queue Using Two Stacks [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/kotlin/queue_using_two_stacks/Queue_Using_Two_Stacks.kt) [problem](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) <div class="vertical-center"> ![Kotlin][kotlin-img] </div>
 - Components In Graph [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/components_in_graph/Components_In_Graph.java) [problem](https://www.hackerrank.com/challenges/components-in-graph/problem) <div class="vertical-center"> ![Java][java-img] </div>
+- Simple Text Editor [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/simple_text_editor/Simple_Text_Editor.java) [problem](https://www.hackerrank.com/challenges/simple-text-editor/problem) <div class="vertical-center"> ![Java][java-img] </div>
 
 
 
