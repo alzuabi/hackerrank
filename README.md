@@ -13,7 +13,7 @@ My profile: https://www.hackerrank.com/profile/AlzuabiIbrahim
 - Queue Using Two Stacks [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/kotlin/queue_using_two_stacks/Queue_Using_Two_Stacks.kt) [problem](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem) <div class="vertical-center"> ![Kotlin][kotlin-img] </div>
 - Components In Graph [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/components_in_graph/Components_In_Graph.java) [problem](https://www.hackerrank.com/challenges/components-in-graph/problem) <div class="vertical-center"> ![Java][java-img] </div>
 - Simple Text Editor [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/java/simple_text_editor/Simple_Text_Editor.java) [problem](https://www.hackerrank.com/challenges/simple-text-editor/problem) <div class="vertical-center"> ![Java][java-img] </div>
-- Poisonous Plants [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/kotlin/poisonous_plants/Poisonous_Plants.kt) [problem](https://www.hackerrank.com/challenges/poisonous-plants/problem) <div class="vertical-center"> ![Kotlin][java-img] </div>
+- Poisonous Plants [solution](https://github.com/alzuabi/hackerrank/blob/main/src/main/kotlin/poisonous_plants/Poisonous_Plants.kt) [problem](https://www.hackerrank.com/challenges/poisonous-plants/problem) <div class="vertical-center"> ![Kotlin][kotlin-img] </div>
 
 
 
